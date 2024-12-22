@@ -23,7 +23,7 @@
 ---
 
 ### Задание 1
-https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/mon1.png
+!(https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/mon1.png)
 
 ### Задание 2
 https://github.com/netology-code/sys-pattern-homework/commit/ba778c0b51a626010ec2905a74a63581874dd57f
