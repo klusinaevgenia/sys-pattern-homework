@@ -35,4 +35,4 @@
 ![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/zabb_2/3-2.png)
 
 ### Задание 4
-#![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/zabb_2/4.png)
+![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/zabb_2/5.png)
