@@ -23,16 +23,13 @@
 ---
 
 ### Задание 1
-![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/zabb_2/1-1.png)
-![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/zabb_2/1-2.png)
+![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/keepalived/router1.png)
+![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/keepalived/router2.png)
+![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/keepalived/cisco.png)
+https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/hsrp_advanced_changed.pkt 
 
 ### Задание 2
-![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/zabb_2/2.png)
+![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/keepalived/keepalvd1.png)
+![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/keepalived/keepalvd2.png)
+https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/nginx_check.sh
 
-### Задание 3
-![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/zabb_2/3.png)
-![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/zabb_2/3-1.png)
-![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/zabb_2/3-2.png)
-
-### Задание 4
-![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/zabb_2/5.png)
