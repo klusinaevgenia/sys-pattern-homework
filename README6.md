@@ -29,6 +29,6 @@
 
 ### Задание 2
 ![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/haproxy/4.png)
-![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/haproxy/5-1.png)
+![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/haproxy/5_1.png)
 ![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/haproxy/5.png)
 [конфигурационный файл](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/haproxy/haproxy.cfg)
