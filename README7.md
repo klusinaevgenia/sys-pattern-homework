@@ -30,4 +30,5 @@
 ### Задание 2
 ![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/backup/4.png)
 ![](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/backup/5.png)
-[скрипт](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/img/haproxy/haproxy.cfg)
+
+[скрипт](https://github.com/klusinaevgenia/sys-pattern-homework/blob/main/backup.sh)
